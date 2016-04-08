@@ -37,6 +37,11 @@ def mergeSort(list):
     print "Merged list: ",list
 
 list = [3,6,2,1,8,9,4,0,7]
+#list = []
+#list = [1]
+#list = [1,2,3]
+#list = [3,2,1]
+
 print "# List:", list
 mergeSort(list)
 print "# Solution:", list
